@@ -1,2 +1,9 @@
 Linux Day 1
 Learning basic commands
+
+Day 2:
+-sudo
+-users
+-permissions
+-nginx
+
