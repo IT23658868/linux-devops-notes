@@ -7,3 +7,10 @@ Day 2:
 -permissions
 -nginx
 
+Day 3:
+-ssh
+-logs
+-disk usage
+-troubleshooting
+
+
