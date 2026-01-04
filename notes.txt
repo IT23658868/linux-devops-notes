@@ -13,4 +13,10 @@ Day 3:
 -disk usage
 -troubleshooting
 
-
+Day4:
+-ip address
+-ping
+-ports
+-ss
+-curl
+-firewall
