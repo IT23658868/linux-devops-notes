@@ -1,0 +1,36 @@
+System Health Check
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.5M  391M   1% /run
+/dev/sda2        25G   15G  8.5G  64% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  128K  392M   1% /run/user/1000
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.1Gi       1.1Gi        33Mi       1.9Gi       2.7Gi
+Swap:          3.8Gi          0B       3.8Gi
+Running services:
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/usr/lib/systemd/system/ssh.service; enabled; preset: enabled)
+     Active: active (running) since Tue 2026-01-06 11:02:18 +0530; 42min ago
+TriggeredBy: ● ssh.socket
+       Docs: man:sshd(8)
+System Health Check
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.5M  391M   1% /run
+/dev/sda2        25G   15G  8.5G  64% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  128K  392M   1% /run/user/1000
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.1Gi       1.1Gi        33Mi       1.9Gi       2.7Gi
+Swap:          3.8Gi          0B       3.8Gi
+Running services:
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/usr/lib/systemd/system/ssh.service; enabled; preset: enabled)
+     Active: active (running) since Tue 2026-01-06 11:02:18 +0530; 47min ago
+TriggeredBy: ● ssh.socket
+       Docs: man:sshd(8)

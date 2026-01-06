@@ -20,3 +20,10 @@ Day4:
 -ss
 -curl
 -firewall
+
+Day 6:
+
+-cron
+-crontab
+-scheduling jobs
+-automation
