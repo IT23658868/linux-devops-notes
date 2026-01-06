@@ -27,3 +27,12 @@ Day 6:
 -crontab
 -scheduling jobs
 -automation
+
+
+day 7:
+
+-apt update/upgrade
+-autoremove
+-logrotate
+-cleanup
+-maintenance automation
