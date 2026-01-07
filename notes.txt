@@ -65,3 +65,13 @@ day 10:
 -service auto-start
 
 
+day 11:
+
+-logs are source of truth
+- /var/log basics
+-journalctl(journal control)
+-service-specific logs
+-live log following
+-debugging failed services
+
+
