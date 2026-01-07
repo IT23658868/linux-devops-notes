@@ -56,3 +56,12 @@ Day 9:
 -securing server access
 
 
+day 10:
+
+-processes vs services
+-ps vs top
+-kill & pkill
+-systemctl start/stop/restart
+-service auto-start
+
+
