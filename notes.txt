@@ -36,3 +36,12 @@ day 7:
 -logrotate
 -cleanup
 -maintenance automation
+
+day 8:
+
+-users & groups
+-sudo & visudo
+-passwordless sudo
+-file ownership
+-basic security
+
