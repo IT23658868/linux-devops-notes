@@ -45,3 +45,14 @@ day 8:
 -file ownership
 -basic security
 
+
+Day 9:
+
+-networking basics
+-ip address & routing
+-DNS & connectivity
+-port & services
+-ufw firewall
+-securing server access
+
+
